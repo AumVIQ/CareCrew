@@ -1,0 +1,56 @@
+# Core
+python-dotenv
+pydantic
+requests
+
+# Web / MCP servers
+Flask
+fastapi
+uvicorn
+crewai
+crewai-tools
+mcp
+fastmcp
+
+# LLM & reasoning
+groq
+openai
+anthropic  # optional if you test Anthropic models
+litellm    # optional model router
+
+# Data & RAG
+faiss-cpu
+sentence-transformers
+chromadb
+lancedb    # optional, if using LanceDB
+SQLAlchemy
+pandas
+numpy
+scikit-learn
+scipy
+
+# OCR / Document parsing
+pytesseract
+pdfplumber
+pypdf
+pdfminer.six
+python-docx
+
+# STT / TTS
+whisper
+gTTS
+pyttsx3
+pydub
+vosk     # optional alternative STT
+
+# Visualization / Frontend
+streamlit
+plotly
+altair
+
+# Utils
+tqdm
+regex
+python-multipart
+Werkzeug
+watchdog

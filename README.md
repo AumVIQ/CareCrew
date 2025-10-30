@@ -15,7 +15,7 @@ It acts as an intelligent assistant that ingests multiple forms of medical data 
 ---
 
 ## 🚀 Submission Checklist  
-- [x] **Demo Video (≤ 3 mins):** `[[Link to Your Demo Video](https://drive.google.com/file/d/1Keuw85yWZz18hbv1h7z1LUo4CmI_dILi/view?usp=sharing)]`  
+- [x] **Demo Video (≤ 3 mins):** 🎥 [Watch Demo Video](https://drive.google.com/file/d/1Keuw85yWZz18hbv1h7z1LUo4CmI_dILi/view?usp=sharing) 
 - [ ] **Live Deployment URL** — *Not applicable (local-first for data privacy)*  
 - [x] **Comprehensive Local Run Steps**  
 - [x] **≥2 Specialized Agents** (✅ 6 agents implemented)  
@@ -264,7 +264,9 @@ python "CareCrew/app.py"
 
 ## 🎥 Demo  
 
-- **Demo Video:**  [You can watch the demo video here]([https://drive.google.com/file/d/1qevw-eD6HzrsckiROaSUMB0Ylk8X0sR_/view?usp=drive_link](https://drive.google.com/file/d/1Keuw85yWZz18hbv1h7z1LUo4CmI_dILi/view?usp=sharing)).
+-## 🎥 Demo Video  
+Watch the full demo here: [CareCrew - Groq Hackathon Submission](https://drive.google.com/file/d/1Keuw85yWZz18hbv1h7z1LUo4CmI_dILi/view?usp=sharing)
+.
 - **Live Deployment:** *Not applicable (local only)*  
 
 ### Sample Workflow  
